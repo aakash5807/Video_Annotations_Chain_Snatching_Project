@@ -1,0 +1,10 @@
+
+videos/
+dataset/
+models/
+*.pth
+*.pt
+*.mp4
+*.avi
+*.webm
+__pycache__/
